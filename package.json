@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-html-template",
+  "version": "1.0.0",
+  "description": "mypotfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inognito123?tab=repositories"
+  },
+  "keywords": [
+    "myfirst",
+    "project"
+  ],
+  "author": "Josee Muhiri",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
